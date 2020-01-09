@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fd77b6b2-d34e-4bc4-848e-70a92390e634" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1W14eaAnTN18DCOZ1BqCaxTXVHu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Andre\PycharmProjects\aprendendopython" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.desafio22">
+    <configuration name="aula09" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="aprendendopython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aula09.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="desafio19" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="aprendendopython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Andre\PycharmProjects\aprendendophyton\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/desafio19.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="desafio20" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="aprendendopython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/desafio20.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="desafio22" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="aprendendopython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/desafio22.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.desafio22" />
+        <item itemvalue="Python.aula09" />
+        <item itemvalue="Python.desafio20" />
+        <item itemvalue="Python.desafio19" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fd77b6b2-d34e-4bc4-848e-70a92390e634" name="Default Changelist" comment="" />
+      <created>1578303863726</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578303863726</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="175" y="0" key="#Inspections" timestamp="1578472722859">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="175" y="0" key="#Inspections/0.0.1366.728@0.0.1366.728" timestamp="1578472722859" />
+    <state x="382" y="0" key="#desafio19" timestamp="1578387835860">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="382" y="0" key="#desafio19/0.0.1366.728@0.0.1366.728" timestamp="1578387835860" />
+    <state x="413" y="63" key="FileChooserDialogImpl" timestamp="1578388453093">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="63" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1578388453093" />
+    <state width="1338" height="159" key="GridCell.Tab.0.bottom" timestamp="1578588115190">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1338" height="159" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1578588115190" />
+    <state width="1338" height="159" key="GridCell.Tab.0.center" timestamp="1578588115189">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1338" height="159" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1578588115189" />
+    <state width="1338" height="159" key="GridCell.Tab.0.left" timestamp="1578588115189">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1338" height="159" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1578588115189" />
+    <state width="1338" height="159" key="GridCell.Tab.0.right" timestamp="1578588115190">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1338" height="159" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1578588115190" />
+    <state x="75" y="0" key="SettingsEditor" timestamp="1578472836599">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="75" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1578472836599" />
+    <state x="314" y="148" key="com.intellij.ide.util.TipDialog" timestamp="1578584634488">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="314" y="148" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1578584634488" />
+  </component>
+</project>
